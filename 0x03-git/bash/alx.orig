@@ -1,8 +1,12 @@
 #!/bin/bash
 <<<<<<< HEAD
+||||||| bcdd48a
+<<<<<<< HEAD
 echo "ALX School is so cool!"
 ||||||| 009742a
 echo "ALX"
 =======
+=======
+
+>>>>>>> 3de3ae66fe7b3d2999a5a787df68b6d0387994e3
 echo "ALX School"
->>>>>>> update_script
